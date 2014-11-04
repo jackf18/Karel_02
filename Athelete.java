@@ -9,7 +9,7 @@
 import edu.fcps.karel2.Display;
 import edu.fcps.karel2.Robot;
 
-public class Lab02 {
+public class Athelete extends robot
 
      public static void main(String[] args) {
           // TODO Your code goes here
